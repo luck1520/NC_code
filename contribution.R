@@ -1,4 +1,4 @@
-#Fig. 2 and Supplementary Fig. 2
+#Fig. 2 calculate relative contributions following GAM results in Supplementary Fig. 2
 pred_terms <- predict(gam_model, type = "terms")
 term_var <- apply(pred_terms, 2, var)
 total_var <- sum(term_var)
