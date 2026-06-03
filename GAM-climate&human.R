@@ -1,3 +1,4 @@
+#Fig. 4a removing climatic and anthropogenic signals using GAMs
 library(mgcv)
 data <- read.csv("G:/NC/GAM_data_all_trees.csv")
 df <- na.omit(data)
