@@ -1,4 +1,4 @@
-# Fig. 4d resilience sensitivity to MAT under different lithologies
+#Fig. 4d resilience sensitivity to MAT under different lithologies
 data <- read.csv("G:/NC/GAM_data_all_shrub.csv")
 df <- na.omit(data)
 df$lithology <- as.factor(df$lithology)
