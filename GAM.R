@@ -1,4 +1,4 @@
-#Supplementary Fig. 2 
+#Supplementary Fig. 2 obtain partial effects of each predictor on resilience and marginal means of resilience across vegetation types
 library(mgcv)
 library(ggplot2)
 library(visreg)
