@@ -1,4 +1,4 @@
-#Supplementary Fig. 6 
+#Supplementary Fig. 6 ksn effects on resilience across 4 lithological groups
 library(mgcv)
 library(ggplot2)
 library(visreg)
